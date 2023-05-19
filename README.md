@@ -7,7 +7,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -17,13 +16,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.png)
 
-
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
-
-## My process
+- Solution URL: https://www.frontendmentor.io/solutions/html-css-and-i-used-flexbox-to-center-the-card-M8XqsoNhaQ
+- Live Site URL: https://thomasmestdagh.github.io/qr-code-project/
 
 ### Built with
 
